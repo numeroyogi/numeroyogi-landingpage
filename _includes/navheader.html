@@ -43,6 +43,7 @@
   width: 100%;
   <!-- height: 100%; -->
   background-color: #000011;
+  z-index: 1000;
   background-image: url("");
   background-repeat: no-repeat;
   background-size: cover;
@@ -63,7 +64,7 @@
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
         {%- endif -%}
         {%- if site.data.sitetext.header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style={z-index:-1;} href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
         {%- endif -%}
       </div>
     </div>

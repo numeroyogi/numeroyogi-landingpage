@@ -1,5 +1,5 @@
 header:
-    title: Pratical Numerology Solutions!
+    title: Pratical Numerology Solutions
     text: NumeroYogi
     button: Tell Me More
     buttonlink: "#services"
@@ -35,7 +35,7 @@ timeline:
     events:
       - title: "Our Website"
         year: "About the website"
-        desc: "NumeroYogi website is owned and developed for the purpose of extensive researches in the diverse fields of occult sciences i.e. Numerology, Astrology, Palmistry and Hypnosis. The owner of NumeroYogi Mr. Sumeet Kr. Tyagi has been researching in the field of occult sciences, particularly in Astrology and Numerology for last 20 years and intend to use these mystic sciences for the service of humanity."
+        desc: "NumeroYogi website is owned and developed for the purpose of extensive researches in the diverse fields of occult sciences i.e. Numerology, Astrology, Palmistry and Hypnosis. The owner of NumeroYogi has been researching in the field of occult sciences, particularly in Astrology and Numerology for last 20 years and intend to use these mystic sciences for the service of humanity."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Coming Together"

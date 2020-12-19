@@ -1,93 +1,65 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Pratical Numerology Solutions!
+    text: NumeroYogi
     button: Tell Me More
     buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Reach Us"
+    text: "Join us today to know more"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Facebook](https://numeroyogi.co.in)"
+        desc: "Our very own facebook page where you can find others, discuss, ask questions and stay connected to us."
+        icon: fab fa-facebook-f #find more at https://fontawesome.com/icons
+      - title: "[Blog](https://numeroyogi.co.in)"
+        desc: "Numeroyogi blog where you can find our expert analysis, discussion and more on numerology, astrology, hypnosis and more."
+        icon: fas fa-blog
+      - title: "[Whatsapp](https://numeroyogi.co.in)"
+        desc: "Our very own whatsapp groip where you can get in direct touch with our experts, hear other peoples stories or tell on of your own."
+        icon: fab fa-whatsapp
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "What We Do?"
+    text: "Extensive Research in the diverse fields of occult sciences i.e. Numerology, Astrology, Hypnosis and more."
     section: portfolio
-    closebutton: "Close Project"
-    
+    closebutton: "Go Back"
+
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "About"
+    text: "Who we are?"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Our Website"
+        year: "About the website"
+        desc: "NumeroYogi website is owned and developed for the purpose of extensive researches in the diverse fields of occult sciences i.e. Numerology, Astrology, Palmistry and Hypnosis. The owner of NumeroYogi Mr. Sumeet Kr. Tyagi has been researching in the field of occult sciences, particularly in Astrology and Numerology for last 20 years and intend to use these mystic sciences for the service of humanity."
         image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt:
+      - title: "Coming Together"
+        year: "About our team"
+        desc: "NumeroYogi Team is a group of progressive occult practitioners and researchers, who believe in comprehensive, pragmatic, logical and scientific findings in the Numerology based on its all-encompassing database of thousands of birth details, recorded events, patterns and conclusive findings.."
         image: assets/img/timeline/4.jpg
-        alt: 
-        # you can enforce the aligment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Objective"
+        year: "What we want to acheive?"
+        desc: "The intent, object and vision of NumeroYogi is to spread the real knowledge of the occult sciences, particularly Numerology and Astrology besides letting the World know about the richness of the great treasure of the wonderful mystic-sciences. The researches and findings of NumeroYogi are copyrighted exclusively owned by NumeroYogi © and shall be published time to time on this website for the benefit of the World and humanity..."
+        image: assets/img/timeline/1.jpg
+        alt:
+        alt:
+        # you can enforce the aligment
+    end: "Be Part <br> of Our <br> Journey!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Experts in their respective Feilds."
+    subtext: Know more about our team and contact us directly if you have any questions.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Placeholder"
+        role: "Astrologist"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -96,18 +68,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Placeholder"
+        role: "Hypnosis Expert"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -116,17 +78,27 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+      - name: "PlaceHolder"
+        role: "Numerologist"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Ask Away all of your questions!!"
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter"  
+        icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com

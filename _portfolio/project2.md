@@ -1,18 +1,24 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: Hypnosis
+  subtitle: You have been in the state of hypnosis thoudands of times
+  thumbnail: assets/img/portfolio/hypnosis.jpg
 
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+#what displays when the item is clicked:
+title: Hypnosis
+subtitle: You have been in the state of hypnosis thoudands of times.
+image: assets/img/portfolio/hypnosis.jpg
+alt: hypnosis
+
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
+Hypnosis is a special condition and stage indulging trans-level with focused mind at sub-conscious level, wherein subject is ready to accept the suggestions. NumeroYogi’s founder Mr. Sumeet Kr. Tyagi is a “Certified Clinical Hypnotherapist” trained by Mr. Mayank Rati and certified by Reiki Healing Foundation. Mr. Tyagi intends to help people suffering from phobias, complexes, and trauma besides to provide reliefs in diseases like:
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+paralysis
+insomnia
+focus
+concentration
+help in studies
+confidence-boosters
+harmonizing relationship
 
+Pain management is another special feature of Hypnosis, which can remove pains, stresses and anxiety attacks of natives. NumeroYogi wishes to use the science of hypnosis to help out the World and humanity.

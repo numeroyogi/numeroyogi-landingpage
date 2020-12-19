@@ -1,18 +1,24 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+caption: #what displays in the portfolio grid:
+  title: Astrology
+  subtitle: If you understand this language, the sky speaks to you
+  thumbnail: assets/img/portfolio/astrology.jpg
 
-caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+#what displays when the item is clicked:
+title: Astrology
+subtitle: If you understand this language, the sky speaks to you.
+image: assets/img/portfolio/astrology.jpg
+alt: astrology
+
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Astrology is a divine science blessed to those fortunate people, who intend to serve humanity by their knowledge and intuition. NumeroYogi and its Team are in extensive study and researches of various aspects of Astrology including but not limited to event based predictions, real-time case studies, medical astrology, and mundane events. Various branches of Astrology are being studied and researched by NumeroYogi Team:
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Vedic Astrology
+- Gemini Astrology
+- K.P. Astrology
+- Gemini Astrology
+- Western Astrology
 
+Volunteer and Research-mind Astrologers are invited to join NumeroYogi Team to contribute to our mission for serving humanity, particularly in the field of Medical Astrology.
+> Research-based articles on Astrology are invited at **numeroyogi@gmail.com**, which may be published on our website.

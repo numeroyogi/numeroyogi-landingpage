@@ -58,8 +58,8 @@ team:
     subtext: Know more about our team and contact us directly if you have any questions.
     section: team
     people:
-      - name: "Placeholder"
-        role: "Astrologist"
+      - name: "Astrologer"
+        role: ""
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -68,8 +68,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Placeholder"
-        role: "Hypnosis Expert"
+      - name: "Hypnotist"
+        role: ""
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -78,8 +78,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "PlaceHolder"
-        role: "Numerologist"
+      - name: "Numerologist"
+        role: ""
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
